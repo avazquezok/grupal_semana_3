@@ -1,3 +1,13 @@
-.size{
- height: 400px;
+.size {
+  height: 600px;
+}
+
+.imageSize {
+  height: 200px;
+}
+
+.shadow:hover {
+  box-shadow: 0px 2px 11px 32px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 0px 2px 11px 32px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 2px 11px 32px rgba(0, 0, 0, 0.75);
 }
